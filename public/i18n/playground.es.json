@@ -31,7 +31,7 @@
     "mobile_layout": "Pruebe esta página en una computadora de escritorio 🖥️ o una computadora portátil 💻 para usar el editor completo y todas las funciones. 👍🌠😃",
     "narrow_layout": "Amplíe su pantalla para ver el editor completo (mejor si usa su mayor resolución de monitor). Si tiene un monitor o pantalla pequeño, intente esta página en otra computadora ️️🖥️💻 para usar el editor completo y todas las funciones. ️️👍🌠😃",
     "error_saved_site": "Se produjo un error al descargar su sitio guardado. ¿Te gustaría crear un nuevo sitio?",
-    "error_server_down": "El servidor de la zona de prueba puede estar temporalmente fuera de servicio porque se produjo un error al descargar la plantilla del sitio. ¡Intente esta página nuevamente en un futuro próximo!",
+    "error_server_down": "El servidor de la zona de prueba puede estar temporalmente fuera de servicio porque se produjo un error al descargar la plantilla del sitio. ¡Intente esta página nuevamente en unos minutos!",
     "try_other_site": "O pruebe una versión PHP de este sitio en FastSitePHP",
     "site_expired": "Su sitio ha caducado y ya no se puede editar. Todos los archivos deben eliminarse automáticamente en 1 minuto."
 }
